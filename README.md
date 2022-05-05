@@ -1,2 +1,2 @@
-# OpenDD
-The Open Source Framework for Damage Done!
+# OpenDD-devkit
+The Open Source Modding Toolset for Damage Done!
